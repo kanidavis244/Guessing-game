@@ -26,6 +26,6 @@ int main() {
 	} while (userInput != secretNumber);
 
 	// prints the final message
-	cout << "You guessed write! The Secret Number was " << secretNumber << endl;
+	cout << "You guessed right! The Secret Number was " << secretNumber << endl;
 	return 0;
 }
